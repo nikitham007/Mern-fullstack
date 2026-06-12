@@ -30,3 +30,13 @@ console.log(v+=10)
 console.log(v-=10)
 console.log(v*=10)
 console.log(v/=10)
+//comparsion
+console.log("comparision")
+var d=50
+var e=30
+console.log(a==b)
+console.log(a!=b)
+console.log(a<=b)
+console.log(a>=b)
+console.log(a<b)
+console.log(a>b)
