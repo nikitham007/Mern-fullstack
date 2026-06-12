@@ -1,4 +1,5 @@
 //arithmetic
+console.log("arthimetic")
 var a=40
 var b=50
 console.log(a+b)
@@ -22,3 +23,10 @@ console.log(a%b)
 var a=40
 var b=50
 console.log(a**b)
+//assignment
+console.log("assignment")
+var v=20
+console.log(v+=10)
+console.log(v-=10)
+console.log(v*=10)
+console.log(v/=10)
