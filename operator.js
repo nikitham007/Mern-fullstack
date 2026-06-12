@@ -48,3 +48,14 @@ console.log(a>10&&b>8)
 console.log(a>50&&b>20)
 console.log(a>7||b<1)
 console.log(a>0)
+//uninary
+console.log("uninary")
+var c=10
+console.log(c++)
+console.log(c--)
+console.log(++c)
+console.log(--c)
+//ternary
+console.log("ternery")
+var result =(a>b)? "a is greater":"b is greater"
+console.log(result)
