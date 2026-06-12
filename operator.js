@@ -40,3 +40,11 @@ console.log(a<=b)
 console.log(a>=b)
 console.log(a<b)
 console.log(a>b)
+//logical
+console.log("logical")
+var a=20
+var b=30
+console.log(a>10&&b>8)
+console.log(a>50&&b>20)
+console.log(a>7||b<1)
+console.log(a>0)
