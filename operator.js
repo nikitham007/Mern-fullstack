@@ -1,0 +1,24 @@
+//arithmetic
+var a=40
+var b=50
+console.log(a+b)
+//sub
+var a=40
+var b=50
+console.log(a-b)
+//multi
+var a=40
+var b=50
+console.log(a*b)
+//div
+var a=40
+var b=50
+console.log(a/b)
+//module
+var a=40
+var b=50
+console.log(a%b)
+//expo
+var a=40
+var b=50
+console.log(a**b)
