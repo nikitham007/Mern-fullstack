@@ -7,5 +7,12 @@ var light="green"
 
 else if(light=="white")
 {
-     
+     console.log("ready")
 }
+else if (light=="green"){
+     console.log("go")
+}
+else{
+     console.log("invalid light colour")
+}
+ console.log("outside if")
