@@ -29,12 +29,13 @@ console.log(symbol)
 console.log("nonprimitive")
 console.log("array")
 var a=["apple,jackfruit,mango,banana"]
-console.log(Number.length)
-console.log(number[2])
+console.log(a.length)
+console.log(a[2])
 //object
 console.log("object")
 var person={
-    name:"nikitha"
-    age=18
+    name:"nikitha",
+    age:18,
+    
 }
 console.log(person.age)
